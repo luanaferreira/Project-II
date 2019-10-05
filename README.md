@@ -1,5 +1,5 @@
 # Project-II
 
-## Integrantes:
+## Integrantes
 
 - Brenda Ferreira Lima da Silva
